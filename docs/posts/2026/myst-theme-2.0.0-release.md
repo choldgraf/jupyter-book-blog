@@ -1,5 +1,5 @@
 ---
-title: "New release: myst-theme 2.0 with a new foundation, breadcrumbs, and redirects"
+title: "New release: myst-theme 2.0 with an upgraded web stack, breadcrumbs, and redirects"
 date: 2026-11-10
 license: CC-BY-4.0
 authors:
